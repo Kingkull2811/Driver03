@@ -1,0 +1,1 @@
+cmd_/home/nam/Desktop/btl_driver/encrypt_module/Module.symvers := sed 's/ko$$/o/' /home/nam/Desktop/btl_driver/encrypt_module/modules.order | scripts/mod/modpost -m -a   -o /home/nam/Desktop/btl_driver/encrypt_module/Module.symvers -e -i Module.symvers   -T -
